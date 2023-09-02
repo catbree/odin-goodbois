@@ -1,0 +1,1 @@
+Starting this as part of the odin-recipes project as part of TOP coursework. Will be using my pet adoption gallery project idea as a base to setup a simple html structure as well as subsequently apply CSS.
